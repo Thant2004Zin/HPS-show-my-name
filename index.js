@@ -9,4 +9,5 @@ export const showMyNameUi = (newName = myName,top=0,right=0) => {
     div.style.right = right;
     div.style.fontSize = 100+"px";
     div.innerHTML = `<h1>${newName}</h1>`
+    document.body.append("div")
 };
