@@ -1,0 +1,23 @@
+{
+  "name": "hps-show-my-name",
+  "version": "1.0.0",
+  "description": "i wanna show my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thant2004Zin/HPS-show-my-name.git"
+  },
+  "keywords": [
+    "hps"
+  ],
+  "author": "hein-pyae-sone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thant2004Zin/HPS-show-my-name/issues"
+  },
+  "homepage": "https://github.com/Thant2004Zin/HPS-show-my-name#readme"
+}
